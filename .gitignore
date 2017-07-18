@@ -9,6 +9,10 @@
 _autosave-*
 *.tmp
 
+#CATIA Files
+*.CATPart
+*.CATProduct
+
 # Netlist files (exported from Eeschema)
 *.net
 
